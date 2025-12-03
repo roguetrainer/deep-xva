@@ -6,6 +6,10 @@
 
 For a detailed history of how the financial industry moved from theoretical arguments to the current consensus, please read [**The Evolution of XVA**](./docs/XVA-DEBATES.md) included in this repository.
 
+---
+![XVA](./img/Neural-XVA.png)
+---
+
 ### **The Hull & White Connection**
 
 This repository is inspired by the intellectual journey of **John Hull and Alan White**.
