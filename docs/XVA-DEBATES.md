@@ -1,5 +1,9 @@
 # **The Evolution of XVA: From Debate to Consensus (2010–2025)**
 
+---
+![XVA](../img/XVA-alphabet.png)
+---
+
 ## **1\. Introduction: The Core Conflict (2010–2015)**
 
 In the years following the 2008 financial crisis, a fierce debate erupted between financial theorists and market practitioners regarding **XVA (Valuation Adjustments)**. The central question was whether a bank's internal funding costs and credit risk should influence the "Fair Value" of a derivative.
