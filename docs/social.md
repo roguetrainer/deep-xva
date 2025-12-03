@@ -1,4 +1,3 @@
-Here is a draft for your LinkedIn post:
 
 THE XVA DEBATES ARE OFFICIALLY OVER, AND THE "PRAGMATISTS" WON. 🏛️📉
 
